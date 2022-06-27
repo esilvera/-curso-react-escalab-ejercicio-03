@@ -12,7 +12,8 @@ function App() {
       </div>
       <hr />
       <div>
-        <Cards cities={data} />
+        {/* <Cards cities={data} /> */}
+        <Cards />
       </div>
       <hr />
       <div>
